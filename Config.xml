@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConnectionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <file_gdb>Testing.gdb</file_gdb>
+  <fc_data>floorplans.DBO.hi_john</fc_data>
+  <sde_connection_file>sdedev.floorplans - sa.sde</sde_connection_file>
+  <sde_fpoffline_file>sdedev.floorplansoffline - sa.sde</sde_fpoffline_file>
+</ConnectionInfo>
